@@ -1,6 +1,6 @@
 Name:		texlive-symbats3
 Version:	63833
-Release:	1
+Release:	2
 Summary:	Macros to use the Symbats3 dingbats fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/symbats3
