@@ -3,7 +3,7 @@ Version:	63833
 Release:	2
 Summary:	Macros to use the Symbats3 dingbats fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/symbats3
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/symbats3
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/symbats3.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/symbats3.doc.r%{version}.tar.xz
